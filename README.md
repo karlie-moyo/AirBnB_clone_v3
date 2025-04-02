@@ -1,5 +1,8 @@
-# AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+# AirBnB Clone - The Console 
+
+![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
+
+The console is the first segment of the AirBnB project that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website. A command interpreter is created in this segment to manage objects for the AirBnB website.
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -153,9 +156,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors KARLIE MOYO - [Github](https://github.com/Karlie-crypto) / [Twitter](https://twitter.com/karlieemoyo)  
-
-
+Authors | [Karlie Moyo](karlieemoyo@gmail.com) 
+  
 Second part of Airbnb: Joann Vuong
 ## License
-https://github.com/Karlie-crypto/AirBnB_clone_v3.gitPublic Domain. No copy write protection. 
+https://github.com/karlie-moyo/AirBnB_clone_v3.gitPublic Domain. No copy write protection. 
